@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="whats_new_message">
+Willkommen zur neuen version von RingyDingyDingy!\n
+\n
+Diese Version kommt mit ein paar Fehlerkorrekturen sowie ein paar neuen Funktionen daher.\n
+Bitte lese die Anweisung die du sehen wirst bevor du OK drückst.\n
+Falls du irgendwelche Probleme haben solltest sende uns bitte direkt eine eMail ringydingydingy@dririan.com oder erstelle einen Fehlerbericht auf https://github.com/dririan/ringydingydingy/issues\n
+Wenn du stattdessen eine negative Bewertung bei Google Play abgibst ist es unwahrscheinlicher das wir das Problem beheben können, da wir eventuelle Rückfragen nicht an dich stellen können.\n
+\n
+Neue Funktionen:\n
+ * Aufzeichnen welches Kommando von wem ausgelöst wurde, zu welcher Zeit das Kommando ausgelöst wurde und von welcher Anwendung es benutzt wurde (dies kann in den Einstellungen deaktiviert werden)\n
+ * Multiple pages will now accumulate in one dialog\n
+ * Neue Piktogramm!\n
+ * Es kann jetzt eingestellt werden welcher Klingelton von RDD benutzt werden soll\n
+    </string>
+    <string name="whats_new_title">Was gibt es neues in RingyDingyDingy</string>
+</resources>

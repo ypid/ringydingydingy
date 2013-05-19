@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="log_size_Einträge">
+        <item>5 Einträge</item>
+        <item>10 Einträge</item>
+        <item>15 Einträge</item>
+        <item>25 Einträge</item>
+        <item>50 Einträge</item>
+        <item>100 Einträge</item>
+    </string-array>
+</resources>
